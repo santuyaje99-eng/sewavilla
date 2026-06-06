@@ -1,0 +1,6 @@
+{
+  "name": "Sewa Villa Batu",
+  "description": "Platform sewa villa real-time di kota wisata Batu dengan pemesanan WhatsApp, simulasi pembayaran online, integrasi peta, sistem ulasan tamu, dan asisten rekomendasi AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
